@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dac3f5aaaf444bca8d085f50e9af70a, type: 3}
-  m_Name: Cuba1_PlaceableObject
+  m_Name: WoodenBlockParent_PlaceableObject
   m_EditorClassIdentifier: 
-  nameOfObject: Cuba1(Clone)
-  uiSprite: {fileID: 2800000, guid: 7134658e76c99423d82461457629143a, type: 3}
-  placementObject: {fileID: 3155926558373680383, guid: 4b9084ee90d0b41aeb3106e1dfce1f16, type: 3}
+  nameOfObject: WoodenBlockParent(Clone)
+  uiSprite: {fileID: 2800000, guid: 2f36420608f1af44f82dddc3e3b09f47, type: 3}
+  placementObject: {fileID: 401556528113037947, guid: 99c24be9a85908348896a529d120307a,
+    type: 3}
   placementCosts: 0
